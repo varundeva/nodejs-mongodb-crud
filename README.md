@@ -16,6 +16,12 @@ $ npm i express
 $ npm i mongodb
 $ npm i body-parser
 ```
+**Create Database and Collection in MongoDB**
+Use MongoDB Shell or MongoDB Compass to Create and Manage Database
+```sh
+Create Database - "ShoppingCart"
+Create Collection - "Products"
+```
 **Run Node Project**
 ```sh
 -app.js is entry point
