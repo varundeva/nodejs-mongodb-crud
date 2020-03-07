@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5e637151b86f4b71cd55aa71"},"Uid":{"$numberInt":"0"},"Name":"DJI Camera","Cost":{"$numberInt":"50000"}}
+{"_id":{"$oid":"5e637151b86f4b71cd55aa72"},"Uid":{"$numberInt":"1"},"Name":"TCL TV","Cost":{"$numberInt":"30000"}}
+{"_id":{"$oid":"5e637151b86f4b71cd55aa73"},"Uid":{"$numberInt":"2"},"Name":"Boat Speaker","Cost":{"$numberInt":"2000"}}
+{"_id":{"$oid":"5e637151b86f4b71cd55aa74"},"Uid":{"$numberInt":"3"},"Name":"Pizza","Cost":{"$numberInt":"900"}}
